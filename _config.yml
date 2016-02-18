@@ -1,7 +1,7 @@
 name: Revisit Solutions
 favicon: null
-layout_spectrum: 0.30165084707550704
-typography_spectrum: 0.9084077237639576
+layout_spectrum: 0.96791
+typography_spectrum: 0.76808
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#9e9fa3'
+    - '#32b9aa'
+    - '#19756a'
+    - '#79ccc4'
   brandStrength: 0.30451236409135163
   lightness: 0.46209539426490664
   saturation: 0.7076410562731326
